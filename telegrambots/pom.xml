@@ -71,7 +71,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <glassfish.version>2.35</glassfish.version>
-        <httpcompontents.version>4.5.13</httpcompontents.version>
+        <httpcompontents.version>4.5.14</httpcompontents.version>
         <commonio.version>2.11.0</commonio.version>
     </properties>
 
