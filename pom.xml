@@ -76,7 +76,7 @@
         <jakarta.annotation.version>2.1.1</jakarta.annotation.version>
         <lombok.version>1.18.34</lombok.version>
         <guava.version>32.0.0-jre</guava.version>
-        <commons.version>3.17.0</commons.version>
+        <commons.version>3.18.0</commons.version>
     </properties>
 
     <dependencyManagement>
