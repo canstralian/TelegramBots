@@ -76,7 +76,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <commonslang.version>3.12.0</commonslang.version>
         <mapdb.version>3.1.0</mapdb.version>
     </properties>
 
@@ -89,7 +88,6 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>${commonslang.version}</version>
         </dependency>
          <dependency>
             <groupId>com.google.guava</groupId>
